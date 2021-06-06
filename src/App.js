@@ -1,5 +1,6 @@
 import './App.css';
 import DiamondPattern from './components/DiamondPattern';
+import HourGlassPattern from './components/HourGlassPattern';
 import Pattern1 from './components/Pattern1';
 import Pattern2 from './components/Pattern2';
 import Pattern3 from './components/Pattern3';
@@ -23,6 +24,7 @@ function App() {
       <PyramidPattern2 />
       <PyramidPattern3 />
       <DiamondPattern />
+      <HourGlassPattern />
     </div>
   );
 }
