@@ -1,4 +1,5 @@
 import './App.css';
+import DiamondPattern from './components/DiamondPattern';
 import Pattern1 from './components/Pattern1';
 import Pattern2 from './components/Pattern2';
 import Pattern3 from './components/Pattern3';
@@ -21,6 +22,7 @@ function App() {
       <PyramidPattern />
       <PyramidPattern2 />
       <PyramidPattern3 />
+      <DiamondPattern />
     </div>
   );
 }
