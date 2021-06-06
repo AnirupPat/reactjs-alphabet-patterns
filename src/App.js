@@ -6,6 +6,7 @@ import Pattern4 from './components/Pattern4';
 import Pattern5 from './components/Pattern5';
 import Pattern6 from './components/Pattern6';
 import PyramidPattern from './components/PyramidPattern';
+import PyramidPattern2 from './components/PyramidPattern2';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Pattern5 />
       <Pattern6 />
       <PyramidPattern />
+      <PyramidPattern2 />
     </div>
   );
 }
